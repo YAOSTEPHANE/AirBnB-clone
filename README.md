@@ -1,21 +1,14 @@
 AirBnB clone - The console
+https://alx-intranet.hbtn.io/projects/263#:~:text=Concepts,AirBnB%20clone
 
-Concepts
-For this project, we expect you to look at these concepts:
 
-Python packages
-AirBnB clone
-
+![image](https://user-images.githubusercontent.com/106774656/203970435-26b4fde4-0f82-4404-ade3-080a8d1252a7.png)
 
 Background Context
 Welcome to the AirBnB clone project!
 Before starting, please read the AirBnB concept page.
 
-
-
-
-
-
+https://www.youtube.com/watch?v=E12Xc3H2xqo
 First step: Write a command interpreter to manage your AirBnB objects.
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
@@ -135,3 +128,6 @@ EOF  help  quit
 (hbnb) 
 $
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
+  ![image](https://user-images.githubusercontent.com/106774656/203971570-533dc02f-9385-42f3-b68e-aaea72bcf371.png)
+
+  https://youtu.be/p00ES-5K4C8
